@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=ab-san&label=Profile%20views&color=0e75b6&style=flat" alt="ab-san" /> </p>
+
+
 <p align="centre"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.oBo-ykuUH3bT9Es_yk4R9wHaHa%26pid%3DApi&f=1&ipt=d32311958f5892714cac03744099221308970df8166e9aab3cf23b8300876e4c&ipo=images" /> </p>
 
 - 🔭 I’m currently working on **full stack project**
