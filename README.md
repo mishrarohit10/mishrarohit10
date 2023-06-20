@@ -1,4 +1,3 @@
-<h1>Hi there</h1>
 ![wp1812377-doge-wallpapers](https://github.com/mishrarohit10/mishrarohit10/assets/89183101/a809dc9b-6b80-484a-8800-63c9d5c1db56)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
