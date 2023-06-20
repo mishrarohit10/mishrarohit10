@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> </p>
+<p align="center"> <img src="https://gifdb.com/gif/zenitsu-thunder-breathing-izwvc1wlavzoad6x.html" width="40" height="40" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrarohit10" alt="mishrarohit10" /></a> </p>
 
