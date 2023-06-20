@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
 
 ![I T A C H I ☯](https://github.com/mishrarohit10/mishrarohit10/assets/89183101/6058e141-7499-4f83-a4e6-8d913d56eb0f)
+![]("C:\Users\Rohit Mishra\Downloads\Zenitsu Thunder Breathing.gif")
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrarohit10" alt="mishrarohit10" /></a> </p>
