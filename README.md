@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![Alt Text](https://gifdb.com/gif/zenitsu-thunder-breathing-izwvc1wlavzoad6x.html)
 <p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fzenitsu-thunder-breathing-izwvc1wlavzoad6x.html&psig=AOvVaw3ll_9d9kqeaXz0M1Io8LmH&ust=1687325728029000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiQzKaQ0f8CFQAAAAAdAAAAABAF" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrarohit10" alt="mishrarohit10" /></a> </p>
