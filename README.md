@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **mishrarohit316x@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
