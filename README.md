@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohit.<br>I'm a passionate backend developer from India</h2>
+<h2 align="left">Hi 👋! My name is Rohit. a</h2>
 
 ###
 
@@ -83,8 +83,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mishrarohit10/mishrarohit10/output/snake.svg" alt="Snake animation" />
 
