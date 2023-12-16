@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/17/51/05/1751056bf687abbb69c7e019a54cff1a.gif"  />
+  <img height="" src="https://i.gifer.com/TIjN.gif"  />
 </div>
 
 ###
@@ -64,12 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="" src="https://i.gifer.com/TIjN.gif"  />
 </div>
 
 ###
