@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohit.<br>I'm a spring backend developer from India</h2>
+<h2 align="left">Hi 👋! My name is Rohit.</h2>
 
 ###
 
@@ -69,6 +69,12 @@
 ###
 
 <div align="center">
+  <img height="" src="https://i.gifer.com/TIjN.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrarohit10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mishrarohit10&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mishrarohit10&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="200" alt="stats graph"  />
@@ -81,9 +87,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mishrarohit10/mishrarohit10/output/snake.svg" alt="Snake animation" />
 
 ###
