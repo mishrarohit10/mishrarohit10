@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.gifer.com/TIjN.gif"  />
+  <img height="340" src="https://i.gifer.com/TIjN.gif"  />
 </div>
 
 ###
