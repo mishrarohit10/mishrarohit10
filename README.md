@@ -1,8 +1,12 @@
 <h2 align="left">Hi 👋! My name is Rohit.<br>I'm a passionate backend developer from India</h2>
 
+###
+
 <div align="center">
   <img height="" src="https://i.pinimg.com/originals/17/51/05/1751056bf687abbb69c7e019a54cff1a.gif"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
