@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **fastapi, springboot, express, gin**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrarohit10&show_icons=true&locale=en&layout=compact" alt="mishrarohit10" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrarohit10&show_icons=true&locale=en&layout=compact" alt="mishrarohit10" /></p>
 
 <p>&nbsp;
 
